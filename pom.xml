@@ -12,7 +12,7 @@
     <artifactId>template-springboot-clean-architecture-crud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>template-springboot-clean-architecture-crud</name>
-    <description>crud-springboot</description>
+    <description>Template for Spring Boot API Rest with Clean Architecture Pattern and Swagger documentation. Example CRUD</description>
     <url/>
     <licenses>
         <license/>
