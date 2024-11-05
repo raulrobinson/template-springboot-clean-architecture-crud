@@ -1,7 +1,7 @@
-package com.rasysbox.crudspringboot.application.service;
+package com.rasysbox.ws.application.service;
 
-import com.rasysbox.crudspringboot.domain.User;
-import com.rasysbox.crudspringboot.domain.dto.UserCreateDTO;
+import com.rasysbox.ws.domain.User;
+import com.rasysbox.ws.domain.dto.UserCreateDTO;
 
 import java.util.List;
 

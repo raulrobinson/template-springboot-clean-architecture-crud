@@ -1,4 +1,4 @@
-package com.rasysbox.crudspringboot.domain;
+package com.rasysbox.ws.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

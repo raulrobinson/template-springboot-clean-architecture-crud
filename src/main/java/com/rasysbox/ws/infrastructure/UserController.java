@@ -1,8 +1,8 @@
-package com.rasysbox.crudspringboot.infrastructure;
+package com.rasysbox.ws.infrastructure;
 
-import com.rasysbox.crudspringboot.application.service.UserService;
-import com.rasysbox.crudspringboot.domain.User;
-import com.rasysbox.crudspringboot.domain.dto.UserCreateDTO;
+import com.rasysbox.ws.application.service.UserService;
+import com.rasysbox.ws.domain.User;
+import com.rasysbox.ws.domain.dto.UserCreateDTO;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;

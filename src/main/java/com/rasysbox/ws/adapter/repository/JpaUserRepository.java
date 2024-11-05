@@ -1,6 +1,6 @@
-package com.rasysbox.crudspringboot.adapter.repository;
+package com.rasysbox.ws.adapter.repository;
 
-import com.rasysbox.crudspringboot.adapter.persistence.UserJpaEntity;
+import com.rasysbox.ws.adapter.persistence.UserJpaEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

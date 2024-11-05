@@ -1,4 +1,4 @@
-package com.rasysbox.crudspringboot.adapter.persistence;
+package com.rasysbox.ws.adapter.persistence;
 
 import jakarta.persistence.*;
 

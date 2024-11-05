@@ -1,4 +1,4 @@
-package com.rasysbox.crudspringboot.domain.dto;
+package com.rasysbox.ws.domain.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

@@ -1,4 +1,4 @@
-package com.rasysbox.crudspringboot.config;
+package com.rasysbox.ws.config;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Contact;

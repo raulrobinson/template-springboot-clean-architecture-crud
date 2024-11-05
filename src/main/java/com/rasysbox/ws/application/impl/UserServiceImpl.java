@@ -1,10 +1,10 @@
-package com.rasysbox.crudspringboot.application.impl;
+package com.rasysbox.ws.application.impl;
 
-import com.rasysbox.crudspringboot.adapter.repository.JpaUserRepository;
-import com.rasysbox.crudspringboot.adapter.persistence.UserJpaEntity;
-import com.rasysbox.crudspringboot.application.service.UserService;
-import com.rasysbox.crudspringboot.domain.User;
-import com.rasysbox.crudspringboot.domain.dto.UserCreateDTO;
+import com.rasysbox.ws.adapter.repository.JpaUserRepository;
+import com.rasysbox.ws.adapter.persistence.UserJpaEntity;
+import com.rasysbox.ws.application.service.UserService;
+import com.rasysbox.ws.domain.User;
+import com.rasysbox.ws.domain.dto.UserCreateDTO;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
